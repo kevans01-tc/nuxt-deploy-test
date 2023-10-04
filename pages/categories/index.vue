@@ -1,4 +1,4 @@
 <template>
   <div>categories index</div>
-  <NuxtLink to="/current-category">Category Link</NuxtLink>
+  <NuxtLink to="/categories/current-category">Category Link</NuxtLink>
 </template>
