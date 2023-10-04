@@ -3,6 +3,5 @@ export default defineNuxtConfig({
   devtools: {enabled: true},
   nitro: {
     // Nitro options
-    baseURL: '/nuxt-deploy-test',
   },
 });
